@@ -1,0 +1,4 @@
+org_1 = imread('../data',aachen_000000_000019,jpg) 
+% seg_1 = 
+% 
+% b= imresize
